@@ -61,3 +61,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Folders
+/bosiy
+/javarush/test/level0[0-9\1]/
+/javarush/test/level1[0-9]/
+/javarush/test/level20/
